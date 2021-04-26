@@ -99,6 +99,9 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
+_cacache/
 
 # TernJS port file
 .tern-port
+anonymous-cli-metrics.json
+package-lock.json
